@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/3gfqn_src/Outer Circle only/genitives")' >> /home/jovyan/.Rprofile
